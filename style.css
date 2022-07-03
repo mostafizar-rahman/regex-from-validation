@@ -1,0 +1,13 @@
+.vlide{
+    display: none;
+    color: red;
+}
+.n{
+    display: none;
+    color: red;
+}
+#btn{
+    width:96px;
+    height:48px;
+    font-size:24px
+}
